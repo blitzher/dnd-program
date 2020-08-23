@@ -1,0 +1,3 @@
+# ignore decrypted world file => should always be equal to util/world.json
+build/
+.spec

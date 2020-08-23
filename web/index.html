@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>D&D</title>
+    <script type="text/javascript" src="/eel.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+
+    <!-- <script type="text/javascript" src="scripts/python.js"></script> -->
+  </head>
+  <body>
+    <ul id="path-ul" class="path"></ul>
+    <br />
+    <div class="container">
+      <ul id="menu-ul" class="menu no-select"></ul>
+    </div>
+    <br />
+    <br />
+    <div
+      class="container display footer"
+      id="display-container"
+      style="display: none;"
+    >
+      <div class="display-box" id="display-box">Hello from the bottom!</div>
+    </div>
+  </body>
+  <!-- define PATH_UL and MENU_UL -->
+  <script type="text/javascript">
+    const PATH_UL = document.getElementById("path-ul");
+    const MENU_UL = document.getElementById("menu-ul");
+    const DISPLAY = document.getElementById("display-box");
+    const DSP_BOX = document.getElementById("display-container");
+  </script>
+  <script type="text/javascript" src="scripts/utilities.js"></script>
+  <script type="text/javascript" src="scripts/startup.js"></script>
+</html>

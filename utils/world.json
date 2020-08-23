@@ -1,0 +1,971 @@
+{
+  "provinces": {
+    "High North": {
+      "cities": {
+        "Baumgarden": {
+          "history": {
+            "1st-tier": "It once harboured a blooming lumbering industry, but has seen a decline in recent years.",
+            "2nd-tier": "The reason for the decline in industry is there has been rampant increase in crime from nearby bandit camps in recent years.",
+            "3rd-tier": "In spite of many attempts from the mayor, most lawful business in the city has vanished, and only a few remain. The few that do remain are not doing great, and would greatly price anyone who can help their business, either by buying their goods, or getting rid of some of the bandits. They may also have some information about the nearby area."
+          },
+          "location": {
+            "1st-tier": "A small city located in the northern part of the forest on the Apus peninsula. Its main connection to the outside world is the main road going south from the town square.",
+            "2nd-tier": "The streets of the city are dreary and foggy, which makes it easy for anyone to hide in bushes and underneath carts that are often scattered on the curbside. The forests nearby seems mostly void of life, but a few rabbits and foxes can be shot and eaten.",
+            "3rd-tier": "Taking a closer look at the forest near the city, it becomes obvious that there are many beaten paths, and it becomes apparent that some bandits have been moving about. It appears that there are 2 lesser camps located east and west of the city, and a bigger one to the north. There appears to be some empty outlooks near the camps, that can be used for more scouting and sneak attacks."
+          },
+          "people": {
+            "Keras Sunblood": {
+              "occupation": "Owner of the village Bakery.",
+              "history": {
+                "1st-tier": "",
+                "2nd-tier": "The current baker is originally from the south, and can be more easily persuaded by someone with similar origin.",
+                "3rd-tier": "More specifically, he is from the Ganguan tribe, and was abducted to the north as a trophy, as a consequence of the King's attempt at conquering the south. He will act kindly towards anyone who dislikes the King and has is willing to sell a single Potion of Invulnerability, only if asked by an individual who carries a carved wooden object, native to his village. To make this, find a piece of wood and a knife-like object.\nPrice is determined by how well it is made, nature check. Requires a short rest."
+              },
+              "location": {
+                "1st-tier": "Owns the local bakery building, located just east of the town square.",
+                "2nd-tier": "From the window in the back of the shop, there is a clean view at the mill out in the farms, that has provided flour for the bakery. It is visible however, that the mill has not been in use for many years, as the wear and tear has caused the wings to droop, and the windows to become brittle enough to shatter in the winds.",
+                "3rd-tier": "Beyond the farm, there appear to be a lesser bandit camp. A small wooden tower above the treetops, looming in the distance. It appears that there is a small pathway leading from the camp to the farm, and it is apparent, that the bandits have long ago raided the mill for all of its worth. The owner of the bakery would greatly appreciate any help he could receive to reclaim the mill, and reinitiate the production of the ever so necessary flour for his bread."
+              },
+              "characteristics": "Wide built half-orc male, about the age of 35. Green skin and grassy eyes to match."
+            },
+            "Valdyr Thunderhowl": {
+              "occupation": "Mayor of Baumgarden",
+              "history": {
+                "1st-tier": "Was appointed mayor by heir, when his father, Talgar Thunderhowl was slain in combat.",
+                "2nd-tier": "Was born and bred in the north, and has a lot of personal attachment to not only the city of Baumgarden, but the north as a whole. His father was called to the south to fight for the King, but never returned. In spite of this, his loyalty to the crown is unwavering, and has a prejudice against anyone who disrespects the King. His spirit, along with his faith in Faith of the Three, is never let down, and always has another idea that will resolve the issues that has plagued the village and its inhabitants, and he always offers suitable rewards to anyone who wishes to assist him.",
+                "3rd-tier": "His father was the one who hauled Keras to the north after the first crusades on the south when Valdyr was young, and has always seen him as a brother, despite their disagreement about the King. However, he does not condone the war efforts put forth by the King, and would much rather prefer to keep the peace in the country. He will do anything in his power to save what remains of Baumgarden, even if it means dying alone in a haunted village."
+              },
+              "location": {
+                "1st-tier": "Owns the Mayors Hall in the northern part of the town square, and takes daily walks about the city.",
+                "2nd-tier": "South of the city, a huge manor is situated, with the name \"Talgar\" inscribed in its facade, along with a sigil. The howling bear is . It is obvious that this was built recently, perhaps as a tribute.",
+                "3rd-tier": "The manor contains a hugely unnecessary amount of bedrooms and halls, suggesting that the ones who built were unfamiliar with the area, as few people ever arrive to the nearly empty village of Baumgarden. Inside there are three shrines, one of which is broken. One with the name \"Setja\", accompanied by paintings of wheat fields and mills, and one with the name \"Veidyr\", accompanied by a nearly decomposed boar trophy. Despite the many unused rooms, these shrines seems like they are often visited, as the area around them are cleanly swept."
+              },
+              "characteristics": "Strong tall human male, 36 years, with a thick beard, barely reaching his belly button, typical of northernmen."
+            },
+            "Pravit Ivers": {
+              "occupation": "Innkeeper",
+              "history": {
+                "1st-tier": "",
+                "2nd-tier": "Not much is know about Pravit's life before he came to the city. However, it was not far after he received refuge that the bandit attacks begun, and ever since, they have only gotten worse, and driven away more and more people.",
+                "3rd-tier": "Pravit Ivers was not always named this. He was forced to change his name, as he was exiled from the bandit league. He was the previous leader of a huge camp in the Northern Wetlands, west of Baragula Lake. However, as he couldn't completely let go of his past, he merely shuffled around the letters. Travis Viper, was he known as."
+              },
+              "location": {
+                "1st-tier": "Owns the bar near the west side of the town square named \"The Rusty Goose\".",
+                "2nd-tier": "Behind the wooden counter adjacent to the bar, a big chandelier hangs from the ceiling, and shines upon a hidden locker in the wall. It appears to hold a magical item, which be used to ",
+                "3rd-tier": "In a hidden cellar in the basement, there lies a small office, with one window from the surface, shining a dim light onto the table in center of the room. On the table lies a small envelope with the Kings stamp on it. Right next to it, another with the Bannerless, the local bandit leader, stamp."
+              },
+              "characteristics": ""
+            }
+          }
+        },
+        "Megin's Port": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "location": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "people": {}
+        },
+        "Corvum": {
+          "history": {
+            "1st-tier": "A city, primarily inhabited by the Goliaths. It is the epicenter of their trade, when they are returning from their hunts and fishing expeditions.",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "location": {
+            "1st-tier": "It lies at the bottom of Aquila bay area, in the northeastern part of the High North.",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "people": {}
+        }
+      },
+      "history": {
+        "1st-tier": "Previously an independent Kingdom, who worshipped the Faith of the Three, Setja, Megin and Veidyr, but was the first province to be conquered by the First Kings conquering centuries ago. The first decades were tumultuous, but they have been able to set aside their differences, and the North of have been loyal to the throne ever since.",
+        "2nd-tier": "When they got conquered, a divide tore throughout the country. The ones who wanted to submit to the throne, and to assimilate into the new Kingdom, and those who wanted to break free once again. The rebels became known as the Bannerless, and have been in diminishing numbers for many years.",
+        "3rd-tier": "The Bannerless have turned to thieving and crime as their main source of sustenance, and are widely viewed as bandits. But underneath the surface, a big plan is brewing. They have begun recruiting more and more people to join them, and the demand for independence is brewing. Under the leadership of a previously exiled Bandit Leader from the Wetlands, a great coup of the leadership is underway."
+      },
+      "location": {
+        "1st-tier": "Following the Kings Road from the south into the High North is a frightening experience to most non-northernerns.",
+        "2nd-tier": "As one follows the road deeper into the north, the forests begins to close in on the path, and the seemingly dead forest comes to life. The howling of wolves, growling of bears and roars of only the Gods know what, fills the eerie silence of the night, and should be treated as a warning for anyone daring to ascend further North.",
+        "3rd-tier": "Should one venture into the forest, the wolves and bears become the least of your worries. Underneath the ground, greate cave systems stretch out. Some of these are lifeless, and are being used by bandits and the like for pathways. However, some of them are occupied, and the unlucky few who stumble into these, rarely live to tell the tale."
+      },
+      "characteristics": "Cold and bare, is what most people would use to describe the High North. The forests are as thick and deep as the murky water that borders the northern coast."
+    },
+    "Wetlands": {
+      "cities": {
+        "Vipers Hamlet": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "location": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "people": {}
+        },
+        "Outlaws Retreat": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "location": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "people": {}
+        },
+        "Whistle-stop": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "location": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "people": {}
+        }
+      },
+      "history": {
+        "1st-tier": "An old and nearly forgotten part of the realm, that only the lawless occupy.",
+        "2nd-tier": "",
+        "3rd-tier": ""
+      },
+      "location": {
+        "1st-tier": "",
+        "2nd-tier": "",
+        "3rd-tier": ""
+      }
+    },
+    "Storms Peak": {
+      "cities": {
+        "Storms Eye": {
+          "history": {
+            "1st-tier": "The big city of Storms Eye has been a vital role in the Kings ability to recruit great warriors throughout many years, as many aspiring fighter seek to the city in search of glory.",
+            "2nd-tier": "Aspiring soldiers from all around the world arrive to the city to take their chance at achieving greatness, by participating in the Coliseum in the southwestern part of the city, which every year is the host of a great tournament. The winners of this tournament are rewarded greatly, but it is no easy task to stand victorious. A trial have to be passed, before access to the tournament is granted, and only 16 parties are admitted into the tournament. These parties are then matched up, and the victors proceed to the following battle, and after all four rounds, when one group remains, the ultimate challenge truly begins. A great dragon is the final challenge, and only after defeating the beast, are the spectators satisfied. Only a select few heroes have been able to complete all challenges, and those people have gone down in history as legends.",
+            "3rd-tier": "However, this is not the greatest challenge that people come to the city to complete. South of the city, there is a path to the mountain pass, World's Summit. Ascending the mountain, and claiming the head of the angel Planetar, can one truly call themselves a legend of the ages. No one has been able to return after beginning the journey to the top, and returned to tell the tale. It is fabled, that the angel wields a magic sword, capable of severing the heads of people at a distance of 20 feet, and enhances all aspects of the wielder."
+          },
+          "location": {
+            "1st-tier": "The barren lands of Storms Peak is broken up by the big walls of Storms Eye, peeking over the horizon.",
+            "2nd-tier": "The first thing visible beyond the walls is the huge Coliseum, looming menacingly over the city. The stench of death and the echo of past crowds can be felt, even when the stadium is empty. The narrow streets of the city tightly wind around each other, and follows the river and canals that flows through the city.",
+            "3rd-tier": "Further from the city, a pathway leads to the mountain range to the west. As one get closer to the mountains, the clouds draw nearer the top of the highest peak, and it is impossible to look at it. The path grows nearer and nearer, and the warning signs are neither few or far between. The task of ascending the mountain seems insurmountable, as skulls litter the side of the path. As one climbs higher and higher, the sounds of nature and life fades away, and the eerie tune of the Celestials fills the air. Going onwards from here seems to be sheer suicide, if one does not have the proper means of psychological protection, and even then, the warrior angel, Planetar, guards a pathway between the Inner and Outer Planes."
+          },
+          "people": {
+            "Commodus Gaius": {
+              "occupation": "Arena Master",
+              "history": {
+                "1st-tier": "He was appointed as the Arena Master, after he won a duel against the previous.",
+                "2nd-tier": "He was once a contender with a group of people. They conquered the coliseum up until the final challenge, but were beaten. He and his friends were the only survives, as the other 3 people were eaten alive.",
+                "3rd-tier": ""
+              },
+              "location": {
+                "1st-tier": "He is the administrator for all admissions in the Arena, and everyone who enters have to go through him.",
+                "2nd-tier": "It seems that every spectator who, also interacts with him. He would be someone who has a lot of information about everyone in the city.",
+                "3rd-tier": "It appears that there are caverns underneath the coliseum. And these are neither slim or dark. The halls have a huge radius and could easily house many elephants. One might be inclined to believe, that there is a giant beast, hidden underneath the great building."
+              },
+              "characteristics": "A small, but bulky half-orc in his late 40s. His dark skin is as much from his heritance as it is, fighting and practicing in the sun."
+            },
+            "Tycho Aurelius": {
+              "occupation": "Innkeeper in Storms Peak",
+              "history": {
+                "1st-tier": "A great warrior, who have fought in many battles, and fought for no king. He dislikes anyone who believes kings and gods are above men, and will not hesitate to show his opinion in violence.",
+                "2nd-tier": "He once participated in the Arena, and fought with the current Arena Master. They were the only two who managed to survive the dragon at the end of the challenge, and came out victorious.",
+                "3rd-tier": "His distate for the King stems from his ancestry, as his lineage has been wiped out by the crusades in the south. He originates from the village, Huraja, which was raided by the Kings men. In spite of the huge outnumbering, legends say 20 to 1, the goliaths fought valiantly, and nearly halved the Kings Crusaders on that day. Many of them lived to tell the tale, and have since spread around Alterace. Many of them have come to Storms Peak to engage in the tournament. He has a gribe for anyone of the Kings Crusaders, and will reward anyone who can bring him their head, and better yet, if he can kill them himself."
+              },
+              "location": {
+                "1st-tier": "Own the biggest inn in the city. If you mention the name \"The Grand Stallion\" to anyone in the city, they are sure to know of the place.",
+                "2nd-tier": "It appears that a many of the rooms in the basement of the inn are off-limits, and all seem to have some peculiarity to them. It appears that most of the staff are not even aware of its existence, and will not take lightly to accusations.",
+                "3rd-tier": "Hidden away near the inn, is a hatch leading down into the darkness of dampness of the basement. The floor is anything but kept, and lights are long burned out. However, the noise emanating from the rooms is anything but the silence that is to be expected from some long forgotten rooms. Each door seem to have its own peculiarity to it, and may have some connection to what is behind them.\nOne room however, appears to be particularly noisy. The door to the room is made from the finest pine wood, something definetly originating from the northern forests, and a sigil with an empty banner is pinned to the center."
+              },
+              "characteristics": "A huge figure, towering 7'8\", with dark brown skin, only disrupted by the red war paintings that covers his face and body, and many scars from battle."
+            }
+          }
+        },
+        "Fort Rex": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "location": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "people": {}
+        },
+        "Qingama": {
+          "history": {
+            "1st-tier": "A city hidden from the outside world.",
+            "2nd-tier": "An old elven city, surrounded by a grove of trees. Can only be reached whenever the inhabitants wishes to be revealed, when detecting magic or when an elf wishes to find it."
+          },
+          "location": {
+            "1st-tier": "Its unique location behind, hidden from most perusers have allowed the hunters from Qingana to construct many secret pathways throughout the forest near the area.",
+            "2nd-tier": "Additionally, a lot of flora and fauna is uniquely found near the elven botanic powers. If you are ever looking for a Moonshine Bulb, look no further than the gardens of Qingana."
+          },
+          "people": {
+            "Halenia Family": {
+              "history": {
+                "1st-tier": "One of the most renowned families in the city, and have been living in Qingana for millenia.",
+                "2nd-tier": "While history is not in the greatest of interest for the near timeless elves, records have been kept about the   "
+              },
+              "location": {
+                "1st-tier": "",
+                "2nd-tier": ""
+              }
+            }
+          }
+        },
+        "Aegis of Omak": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "location": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "people": {}
+        }
+      }
+    },
+    "Ebon Reach": {
+      "cities": {
+        "Crossroads": {
+          "history": {
+            "1st-tier": "A big city, located at the crossing point between the major roads of Alterace. It has a huge deposit of all kinds of goods and services, and if one asks at a tavern, no matter the task, someone will be able to satisfy ones demand.",
+            "2nd-tier": "Despite numerous attempts, the Kings of the past has never been able to fully gouvern the city, as the city is composed of 5 different clans, who each control a section of the city. The origin of the feud is not precicely known, however it has been going on for many generations now, and the conflict does not seem to be stepping down. The sections of the city eminate from the town square in the center, and then each section is roughly one fifth of a circly out from there. The clans often fight over territory, but less so in the streets. The weapons the clanleaders use are mercenaries and assassins, and less so soldiers. Information about the other clans is almost invaluable for the clans, and should one provide it to them, one would be greatly rewarded.",
+            "3rd-tier": "In the southereasternmost part of the city, are the Loxodon. The elephant humanoids have sit on their seat as the lords of the spice, and function as the gateway going to the southern regions of Ebon Reach, and further into Desolate Plateau.\nThe dwarves keep their quarters in the northernmost part of the city. The weapons manufactured from the raw iron and steel that can be found in the foundries here, rival anything found in all of Alterace. They also have a weak spot in their heart for good ale, and they take kindly to anyone who brings them a keg of ale from the High North.\nIn the northeastern part, the High Elves of Langara keep a part of the city. They attempt to keep out of conflict with the other clans, but should one trespass into their territory, who are not elves themselves. Their woven materials, shirts, dresses and other wearables, have a tremendous amount of handwork put into them, and this can be seen from the powers they emminate. If one is interested in buying magical clothing, this surely is the place to get it.\nIn the northwesternmost part of the city, the humans keep their seat. However, these are not the Kings men, and should one mistake them for such, that would be ones last mistake. These are the bandit clan, the Bannerless, who run these streets. They are experts in stolen goods and information, and always seem to pose a threat in conversation.\nThe Triton occupy the southwestern part of Crossroads, the only embassy that they have outside of their capital. Not much is known about them, as they mostly keep to themselves, dwelling in their own selfpride."
+          },
+          "location": {
+            "1st-tier": "Tall buildings, held together mostly by ropes is what constitutes the majority of the city. A few houses are more upper class, but these are few and far between, and mostly located near the center.",
+            "2nd-tier": "In the center of the city, tall buildings looms over the streets. Some of these have stone, wooden or even threaded bridges between them. Additionally, it appears that the city is split up into five different sections, where each sections have what appears to be an especially grandiose apartment in their section. Some of these lie at the top of the buildings, and thus have a great view of the people in the city, while others are dug into the ground, hidden away from the gaze of the uninvited.\nIn between the narrow streets, many small pubs lie, all with peculiar sigil at the entrance. Some have a dwarven pickaxe, some have an elephants tusk and others a trident. The people who sit in these pubs reflect the sigil, and some of the people seem to be looking suspiciously at other races who dwell in the pubs.",
+            "3rd-tier": ""
+          },
+          "people": {
+            "Dobrun the Mighty": {
+              "occupation": "Loxodon Clanleader in Crossroads",
+              "history": {
+                "1st-tier": "The Loxodon Clan in Crossroads is not to underestimated, and under the rule of Dobrun, it has never been more true. While they, like the Triton in Crossroads, mostly keep to themselves, his fingers of influence reaches further than expected.",
+                "2nd-tier": ""
+              },
+              "location": {
+                "1st-tier": "A seemingly uninteresting building, located near the center of Crossroads. At the very top, a big room is situated near the edge, which provides a great view towards the other regions of the city, which houses Loxodon Leader.",
+                "2nd-tier": "While the area is locked off for access above the first few floors, the guards are not getting paid much. If one can provide a slight financial compensation for entrance, not much stands in your way. The floors and ceilings however are very hard to breach in any way, as they have been reinforced to carry the weight of the many Loxodon."
+              },
+              "characteristics": "Big steel-cased tusks, and a moustache. His ceremonial red robes cannot be mistaken."
+            },
+            "the Jackal": {
+              "occupation": "Human Clanleader in Crossroads",
+              "history": {
+                "1st-tier": "",
+                "2nd-tier": ""
+              },
+              "location": {
+                "1st-tier": "Sits in the basement of the Bannerless Headquartes in the northwestern part of Crossroads. His underground dojo is dimly lit and plenty of ",
+                "2nd-tier": ""
+              },
+              "characteristics": "Wears all black clothes, and has the ability to hide in plain sight. Should always be treated as a threat, even when he considers you an ally."
+            },
+            "Nyala Shadowweaver": {
+              "occupation": "Elvish Clanleader in Crossroads",
+              "history": {
+                "1st-tier": "",
+                "2nd-tier": ""
+              },
+              "location": {
+                "1st-tier": "",
+                "2nd-tier": ""
+              },
+              "characteristics": "Bright blue skin, and a long purple robe. Her iridescent green eyes show an immense capability of destruction and seduction."
+            },
+            "Grokkid Silvershaper": {
+              "occupation": "Dwarven Clanleader in Crossroads",
+              "history": {
+                "1st-tier": "",
+                "2nd-tier": "",
+                "3rd-tier": ""
+              },
+              "location": {
+                "1st-tier": "",
+                "2nd-tier": "",
+                "3rd-tier": ""
+              },
+              "characteristics": ""
+            },
+            "Aaravos Galanodel": {
+              "occupation": "For hire wizard and illusionist. Is the mayor of Galanodel in Kingshaven, but mostly reside in Crossroads.",
+              "history": {
+                "1st-tier": "",
+                "2nd-tier": "",
+                "3rd-tier": ""
+              },
+              "location": {
+                "1st-tier": "",
+                "2nd-tier": "",
+                "3rd-tier": ""
+              },
+              "characteristics": "Has deep purple skin and a dark blue robe, but mostly presents himself as different people."
+            }
+          }
+        },
+        "Nyara": {
+          "history": {
+            "1st-tier": "A city founded by the upper class of Port Reges, as the city begun to be overpopulated, and the lower class began to assimilate and pose a sociopolitical threat.",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "location": {
+            "1st-tier": "A city located at the northern coast of Ebon Reach. It is the closest city to the Taiga Isles, and houses an admirable navy.",
+            "2nd-tier": "The buildings in the city represent the wealth of the inhabitants, and are made out of pure marble, all imported from Aegis of Omak. _unfinished_",
+            "3rd-tier": ""
+          },
+          "people": {}
+        },
+        "Langara's Cradle": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "location": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "people": {}
+        },
+        "Torriton": {
+          "history": {
+            "1st-tier": "A rather small city, located on the southern shore of Ebon Reach. Its shipbuilding expertise is known across all of Alterace, and the handiwork put into them seem nearly otherworldly.",
+            "2nd-tier": "Inside the city, the Triton rule. Their sea faring adventures are not very well known outside of their city, in spite of their adept ability to boast about their acts. They rarely leave the coast of Ebon Reach, and do not take kindly to strangers, waddling into the city, who are not either accompanied by an Triton, or are on special convoy, sent by the leader of Torriton, Diima Vuuvaxa. They have a tendency to not abide by laws, put forth by any outsider, and while they do not want a conflict with the King, they do not truly regard him as a King of Torriton.",
+            "3rd-tier": "While the acts of the Triton are not well known outside of Torriton, they are not to be scuffed at. In the depths of the abyss, giant leviathans, krakens and other sea monsters rest. However, as the battle between the Lower Planes and the Upper Planes is stirring, so does the ocean floor. Many portals have sprung up at the bottom, and bring forth even more demonic creatures, which inflames the resting sea creatures. The battle among men seems like not mure than a fist fight, when the monsters of the sea are fleeing."
+          },
+          "location": {
+            "1st-tier": "The city itself can easily be overlooked when walking on the main road from Crossroads, and it seems mostly insignificant. Upon closer inspection, it seems that the air in front of the walls appear to be shimmering.",
+            "2nd-tier": "Behind the wooden walls of the city however, a multilayered maze-like metropolis stretches deep into the ground. The watery underground has provided great opportunities for the inhabitants of the city to advance the construction of their fortress, for whatever purposes they have had.",
+            "3rd-tier": "The regular slushing of the sea hitting the beach is peculiarly disrupted by another sound, as the waves crashes onto the southern shore of Ebon Reach. The distinct sound of water hitting glass somehow protrudes from the ocean as the oceanic winds brings the waves ashore. Underneath the surface of the water, the city of Torrition truly stretches out, vertically. The oceanic nature of the Triton allow them to flood their surroundings, without compromising the integrity of their houses, and have managed to create a metropolis in the ground."
+          },
+          "people": {
+            "Diima Vuuvaxa": {
+              "occupation": "Consort of the Triton in Torriton",
+              "history": {
+                "1st-tier": "As with all young Triton, Diima was trained in combat starting on the first day of the second birthyear, and ever since, she had showed great signs of potential, and was quick to realise these. The leader of Torriton is determined by strength and achievements alone, and when she was but 15, she managed to hunt down and kill the Kraken that had killed the previous leader, thus claiming the role of Consort in the city."
+              },
+              "location": {
+                "1st-tier": "The Consort of the Triton has a palace dug underneath the ground, deep in the watery halls of Torriton. Their distrust of strangers have motivated them to keep their consort hidden away from outsiders, however Diima is not like most of the Triton. She rarely lingers in the city for much more than necessary, and prefers to spend her time either picking sea anemones or hunting.",
+                "2nd-tier": "The palace is a huge building, for Triton standards. With an entrance at the top, and a vertical swim down into the lobby, with many rooms at either side. One room stands out over the others. Inside is a long table, which appears to often be in use. The size of the room suggests that it may be a conference room, and the footprints on the floor are almost entirely washed away, but can still be deciphered clearly.\nThe distinct footprints of demons without a doubt stain these floors."
+              },
+              "characteristics": "A shapely female Triton, wielding an enchanted trident, with long seaweed green hair, and fair blue eyes."
+            }
+          }
+        }
+      },
+      "history": {
+        "1st-tier": "",
+        "2nd-tier": "",
+        "3rd-tier": ""
+      },
+      "location": {
+        "1st-tier": "The green hills of Ebon Reach disrupt the otherwise flat region, and walking a few hundred feet away from the road, will almost always land you among some of these hills. In the northeastern part of the region, the great forest of Langara stretches out, and is mostly closed off from the outside world. The mountain range at the north seperates the continent from the regions of Wetlands, High North and Storms Peak.",
+        "2nd-tier": "Moving further over the hills, there are many lesser forest areas, and the fields and farms begin to take hold. Many small farming villages, that can not be found on any map of the continent, hide away, and attempt to avoid visitors.\nThe depths of the forests also serve as a stow away for secrets. The Firbolg have made their own civilisation, seperated from the Kings reign and reach. Not much is known about them however, as they rarely come out of the forest, unless the forest is posed with danger.",
+        "3rd-tier": "The sea in Alterace is generally rather welcoming, and only in a few places does the endless and fathomlessly deep water actually impose the proper fear in those who ponder. However, in Ebon Reach, there are many legends and myths regarding the ocean, and many tales of people who wander to sea, never to be seen again. Near the southern shore in particular, most farmers in the area dare not even venture to the beach, in fear of what might ascend from the waves. Many people have claimed to have seent sea creatures, with rather humanlike silhouttes, rushing on the top of the sea foam, and even battling sea serpents, wyrms and other things that the Common language cannot describe."
+      }
+    },
+    "Desolate Plateau": {
+      "cities": {
+        "Ganguan Tribe": {
+          "history": {
+            "1st-tier": "A once great village, but now not much more than a village, since the Kings crusades has begun raiding the southernmost province and cutting off supply lines.",
+            "2nd-tier": "The current cheiftain is a kindhearted man, who does not wish to be in dispute with the King, however much he has reason to. His father, the previous chieftain, was slain at the hand of one of the Kingsmen, when the raids begun under King Omak, the father of the current King.",
+            "3rd-tier": "The nature of the village however seem to defy expectations. There is not much food to be found in the desert, no nearby villages to pillage and the land is unfit for aggrigation. In spite of this, the village has a long history of chieftains, all who have had various amounts of interest in raiding and pillaging. Their connections wit the other villages in the Desolate Plateau might have something to do with their fruition."
+          },
+          "location": {
+            "1st-tier": "Not much is of interest in the nearby area. The river outflow from Lake Meru is nearby, and has been supplying them with fresh water ever since the dawn of the village, but there is not much more green or lush nature.",
+            "2nd-tier": "There are pathways leading from the village and into the dunes. They seem to be very trodden, as if they have been used recently, and a lot. The main pathway leads nearly directly into one of the dunes, before suddenly vanishing."
+          },
+          "people": {
+            "Karmok Flareblaser": {
+              "occupation": "Cheiftain of Ganguan Tribe.",
+              "history": {
+                "1st-tier": "The son of the previous chieftain. A kind man who's primary priority is just the wellbeing of his village.",
+                "2nd-tier": "His father was slain in a previous raid in the area, by the Kingsmen, but does not have anger or hatred towards the King. He merely wishes to distance himself and his fellow half-orcs from the Kings government.",
+                "3rd-tier": "His father was the one who established the first trade routes with the Tielflings under the desert, that has supported the well-being of the village for many years now. They have their own way of generating the ever so scarce supply of food in the desert, and has allowed Ganguan to flourish. Karmok does not like the demon worshippers, but he is unable to cut off their partnership, as there is far from enough food in the area to live without their aid. In return however, the half-orcs must make their warriors available for use by the Tieflings, and while they are yet to require the use of them yet, some day a toll will be demanded, and it may be grim."
+              },
+              "location": {
+                "1st-tier": "Karmok sits in the cieftains tent, the biggest in the village, located near the bonfire in the center of the camp.",
+                "2nd-tier": "The fire in the bonfire have been burning for centuries, and have cooked the meat from hunting missions, as well as provided warmth when the unrelenting weather of the desert had turned to cold.",
+                "3rd-tier": "The origin of the fire is not well known, however upon staring into the ashes of the fire, one can make out the silhouettes of flickering creatures. The elementals of Mount Karasmai have provided life to the Desolate Plateau, and Ganguan is no exception. The fiery elementals of the earth spring up in every bonfire in the region, and aid only the native inhabitants."
+              },
+              "characteristics": "A broad figure, taller than any of the other half-orcs in his tribe. Missing his right eye, and has a disfigured nose from previous battles."
+            }
+          }
+        },
+        "Crestiel": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "location": {
+            "1st-tier": "Located in between a mountain range in the northern part of Desolate Plateau. The pathway up into the higher altitude can be difficult, and flight is almost a necessity, to reach it safely.",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "people": {}
+        },
+        "Croxian Camp": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "location": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "people": {}
+        },
+        "Nefris": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "location": {
+            "1st-tier": "Underground tiefling city, located underneath Ganguan Tribe.",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "people": {}
+        }
+      },
+      "history": {
+        "1st-tier": "The southernmost region of Alterace, Desolate Plateau appears at sight to be one of the more lifeless provinces of the continent, as the sandy deserts stretch out from the Mount Karasmai, only briefly interrupted by the two rivers which, encapsulate the peninsula.",
+        "2nd-tier": "In the past however, huge temples were constructed by the King of the Desert, Malik Alsahra. Whilst these are mostly burried their presence is still felt througout the desert in various ways. Accessing these temples require great magical affinity, and while it has been millenia since anyone has ventured into these temples, but this does not mean they are empty, as great dangers lurk in the depts of the sands.",
+        "3rd-tier": ""
+      },
+      "location": {
+        "1st-tier": "The mostly desert landscape of Desolate Plateau is not much for the eye, and appear very unintersting at first glance.",
+        "2nd-tier": "Furthermore, the sands of the desert house some monstrous creatures. The sand worms have dug tunnels beneath the ground, some even up to 15 feet in diameter. Small vilages of Desert Tieflings house some of the tunnels, and may have some connections with the Lower Planes. Additionally, in the very center of the region, a huge mountain range towers over the flat desert landscape.",
+        "3rd-tier": "The few locations which are of interest however, harbour some very attractive items however. Underneath the desert sands lie the remnants of a long lost civilisation, and some of their temples peak above the dunes. Most of them are covered in the sand, and house some very powerful magical objects. They are not unguarded however, and to find them, one must acquire someone with the knowledge of this ancient people.\nAdditionally, the great mountain in the center of Desolate Plateau, Mount Karasmai, have some grand caves, and following these into the ground, reveal the elemental nests that live far from the surface. The stones from slain elementals posses great magical potential, and bringing one to a person capable of extracting this, can be greatly beneficial."
+      }
+    },
+    "Taiga Isles": {
+      "cities": {
+        "Ken Key": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "location": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "people": {}
+        },
+        "Eretande": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "location": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "people": {}
+        }
+      }
+    },
+    "Kingshaven": {
+      "cities": {
+        "Port Reges": {
+          "history": {
+            "1st-tier": "Has always been one of the largest cities in the country, and has recently become the official capital, as King Omak managed to mostly unite the regions.",
+            "2nd-tier": "In more recent times however, the reputation of the city has plummeted. Since the King Isak gained control of the capital, not many resources have been going to sustain the population of the city, and its inhabitants have been more and more infuriated with the King. There are rumours of a cult, self-titled \"the Red Brothers\", who have risen to prominence, and have begun gouverning parts of the city, especially the area around the city. It isn't known who their leader is, or where their headquarter is located.",
+            "3rd-tier": ""
+          },
+          "location": {
+            "1st-tier": "A big city, located near the southern cost of Kingshaven. Its harbour lies within the crevasse of the countryside, and looks menacing from afar.",
+            "2nd-tier": "From afar a huge tower on the castle can clearly be seen during the daytime, as it looms eerily above the rest of the town. The castle itself is a sight to behold, as the brick walls seperate the leaders of the world from the slums of the commonfolk. \nIn the small streets of the city are often littered with garbage, human waste and a few bodies. It is exceedingly rare that people of higher stature walk these streets, and should one do, it is considered profoundly suspicious.",
+            "3rd-tier": ""
+          },
+          "people": {
+            "Isak Altores": {
+              "occupation": "Sitting King of Alterace.",
+              "history": {
+                "1st-tier": "Is the first son of the late King Omak, and the current ruler of Alterace. His view towards the other races of the continent is heavily jaded, and believes that not only that the humans are superior, but specifically, that the royal bloodline is above the commons.",
+                "2nd-tier": "His method of ruling has left most of the people in Port Reges to flee fromt he city, as few to little resources are being spent on tasks other than military expansion. In spite of this however, his charming looks and mannerisms leave him mostly unhated, although most of the upper classes of society has stopped supported his increasingly reckless crusades and ever growing demand for conquest. ",
+                "3rd-tier": "As the resources from the people have stopped coming in, and the raw amount of food and supplies have been decreasing, Isak has been forced to look for other means to his end, and thus have been looking into the demonic magics. While this is purely speculative amongst the commonfolk, his closest advisors are in direct contact with some of the demonic gods of the Lower Planes. As of so far, the deals they have struck have been mutually beneficial, it is not certain when or how the devilish repurcussions of infernal accords will come to fruition, but it is sure that they will be catastrophic."
+              },
+              "location": {
+                "1st-tier": "",
+                "2nd-tier": "",
+                "3rd-tier": ""
+              },
+              "characteristics": "A rather slim figure, with bright red hair and a long golden coat."
+            },
+            "Martin Altores": {
+              "occupation": "Heir to the Crown.",
+              "history": {
+                "1st-tier": "",
+                "2nd-tier": "",
+                "3rd-tier": ""
+              },
+              "location": {
+                "1st-tier": "",
+                "2nd-tier": "",
+                "3rd-tier": ""
+              },
+              "characteristics": "A small and mischevious boy, with dark brown hair."
+            },
+            "Cyrus Ellemon": {
+              "occupation": "Missionary priest of Vaiiares",
+              "history": {
+                "1st-tier": "A previous captive, but was freed as a reward for the slaying of Karmok Flareblaser in Ganguan Tribe by King Isak",
+                "2nd-tier": "",
+                "3rd-tier": ""
+              },
+              "location": {
+                "1st-tier": "Began his missionary work in Port Reges",
+                "2nd-tier": "",
+                "3rd-tier": ""
+              },
+              "characteristics": ""
+            },
+            "Remus Altores": {
+              "occupation": "Captain of the Kings guard",
+              "history": {
+                "1st-tier": "",
+                "2nd-tier": "",
+                "3rd-tier": ""
+              },
+              "location": {
+                "1st-tier": "",
+                "2nd-tier": "",
+                "3rd-tier": ""
+              },
+              "characteristics": "Large burly old man"
+            }
+          }
+        },
+        "Galanodel": {
+          "history": {
+            "1st-tier": "Also knows as 'Gate of Omak', a medium sized city located in the eastern part of Kingshaven, housing the only gate between the eastern part of the province from the rest.",
+            "2nd-tier": ""
+          },
+          "location": {
+            "1st-tier": "Located at the easternmost point of Kingshaven, near the Aaravosian Mountains. It functions aas the only land connection between the Eastern Islands and the main continent.",
+            "2nd-tier": ""
+          },
+          "people": {
+            "Claus Whitewood": {
+              "occupation": "Works in Galanodel, as the Head of Security on the Gate of Omak.",
+              "history": {
+                "1st-tier": "Once a renowned crusader, working for King Omak, but after a ",
+                "2nd-tier": ""
+              },
+              "location": {
+                "1st-tier": "",
+                "2nd-tier": ""
+              },
+              "characteristics": "",
+              "alter ego": [
+                "organisations",
+                "Children of Zodrak",
+                "people",
+                "Grandmaster"
+              ]
+            },
+            "Peter Kalarius": {
+              "occupation": "Innkeeper in 'the Little Teacup' in Galanodel.",
+              "history": {
+                "1st-tier": "",
+                "2nd-tier": ""
+              },
+              "location": {
+                "1st-tier": "",
+                "2nd-tier": ""
+              },
+              "characteristics": "A goblin, green skinned, and about 4' high."
+            }
+          }
+        },
+        "Kanadale": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": ""
+          },
+          "location": {
+            "1st-tier": "",
+            "2nd-tier": ""
+          },
+          "people": {}
+        },
+        "Amberwood": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "location": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "people": {}
+        },
+        "Aaravosia": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "location": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "people": {}
+        }
+      },
+      "location": {
+        "1st-tier": "Mostly flat, slight hills poke up, and a a mountain range splits up the county in a western and eastern side. Inhabited with friendly farmers and small-towns folk, it is a very amiable area.",
+        "2nd-tier": "The green and yellow fields and smell of flowers permeates throughout the province, and the tall windmills where the farmers grind their grain can be seen from far away. The Splitting Mountains does provide a steady supply of iron and copper ore, and while these are nothing compared to the Storm Metal dug up near Aegis of Omak, it is decently sturdy for the Kings lackeys.",
+        "3rd-tier": "At first glance, everything seems very peaceful, but upon further inspection, especially of the locals, some slightly disturbing clues can be uncovered. Most of the windmills appear to have some form of basement area, and while most are locked, the dim lighting and muffled voices can be perceived from above, and when listening carefully on a full moon, the sounds of chanting can be heard. When questioned, all of the people will say that they know nothing of this."
+      }
+    },
+    "Western Islands": {
+      "cities": {
+        "Nimes": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": ""
+          },
+          "location": {
+            "1st-tier": "",
+            "2nd-tier": ""
+          },
+          "people": {}
+        },
+        "Horn-shark Bay": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": ""
+          },
+          "location": {
+            "1st-tier": "",
+            "2nd-tier": ""
+          },
+          "people": {}
+        },
+        "Darius' Refuge": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": ""
+          },
+          "location": {
+            "1st-tier": "",
+            "2nd-tier": ""
+          },
+          "people": {}
+        }
+      },
+      "history": {
+        "1st-tier": ".",
+        "2nd-tier": "",
+        "3rd-tier": ""
+      },
+      "location": {
+        "1st-tier": "",
+        "2nd-tier": "",
+        "3rd-tier": ""
+      }
+    }
+  },
+  "people": {
+    "Zeyis": {
+      "occupation": "Adventure struck child, with slightly magical powers.",
+      "history": {
+        "1st-tier": "",
+        "2nd-tier": "",
+        "3rd-tier": ""
+      },
+      "location": {
+        "1st-tier": "",
+        "2nd-tier": "",
+        "3rd-tier": ""
+      },
+      "characteristics": "A young tiefling from the village of Nefris."
+    },
+    "Magnus Heck": {
+      "occupation": "Warlock ",
+      "history": {
+        "1st-tier": "An ageless magic user. While mostly friendly to newcomers, he is businessminded, and rarely grant his services free of charge.",
+        "2nd-tier": "",
+        "3rd-tier": ""
+      },
+      "location": {
+        "1st-tier": "Lives in a hidden attic, a few miles north of Kanadale.",
+        "2nd-tier": "",
+        "3rd-tier": ""
+      },
+      "characteristics": "Fiery purple hair and a long bedazzled coat."
+    }
+  },
+  "history": {
+    "1st-tier": "The near ancient land of Alterace has been in the grips of Kings and Queens for centuries. For the longest time, people have been fighting over the right to rule the lands, but the endless wars have recently come to a halt. King Omak the Great was the once who united all of the provinces under one banner, and has succesfully kept the peace for his lifetime, but things have been stirring ever since he died.",
+    "2nd-tier": "After his death, his son, King Isak, has ascended the throne. He did not hesitate to seize the opportunity to pillage the weak. He has been sending out his soldiers to pillage the lands of the country, and when the people do not have more to give, they are brutally slain and humiliated for everyone to see. In the smallest of counties and the deepest of slums, trouble is now brewing. The people are demanding their freedom, even if it means a whole new war.",
+    "3rd-tier": "While the feuds of the mortals are tearing apart their precious societies and structues, the Gods are fighting their own war. The demon realms have been leaking, as the human anger and suffering has been increasing. Their eternal seat on the Outer Planes have always stood tall and unwavering, but as their power has been challenged, so has their thrones at the top. It may not be long, before their powers runs dry, and the aid of the mortals is demanded."
+  },
+  "realms": {
+    "Underheaven": {
+      "cities": {
+        "Mydalia": {
+          "history": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "location": {
+            "1st-tier": "",
+            "2nd-tier": "",
+            "3rd-tier": ""
+          },
+          "people": {}
+        }
+      }
+    }
+  },
+  "organisations": {
+    "Children of Zodrak": {
+      "signatures": "Members are wearing red cloaks, adorned with a black rope around the waist.\nThey often paint red circles, with a demonic sigils in the center when performing a ritual",
+      "history": {
+        "1st-tier": "The Children of Zodrak is a cultic following, who began many centuries ago, about Anno 500, in the lands of Kingshaven, but have always worked low profile. They have been practicing rituals in basements, and trying to obtain contact with the Demon Princes. Only recently have they been having success in summoning demons and inflicting curses.",
+        "2nd-tier": ""
+      },
+      "location": {
+        "1st-tier": "",
+        "2nd-tier": "",
+        "3rd-tier": ""
+      },
+      "people": {
+        "Grandmaster": {
+          "occupation": "Works as the vice president of the Children of Zodrak in Galanodel.",
+          "history": {
+            "1st-tier": "The lesser of the two Grandmasters in the city of Galanodel. While titles, for the most part, do not play the biggest of roles in the Children of Zodrak, being a higher rank does mean having access to more information. Most frequently, a higher rank constitutes to more years in the organisation, and sometimes, also some historical significance."
+          },
+          "location": {
+            "1st-tier": "When not working his dayjob, he usually spends his time in his fathers house in Galanodel. A rather large mansion in forest, north of the city.",
+            "2nd-tier": ""
+          },
+          "characteristics": "Rather handsome young man, and can easily be mistaken for a law abiding citizen.",
+          "alter ego": [
+            "provinces",
+            "Kingshaven",
+            "Galanodel",
+            "people",
+            "Claus Whitewood"
+          ]
+        }
+      }
+    },
+    "Marvins Miraculous Caravan": {
+      "signatures": "Outside of the outstanding and eyecatching caravan itself, the charlatans managing the wagons have a special handshake.",
+      "history": {
+        "1st-tier": "Originally started as a permanent circus by Theodore the Magnificent near Nyara, but as the inhabitans realised that they were mostly getting scammed out of their money, they decided to move. And with them, came not only real items of interest, but also more business, and more peculiar people.",
+        "2nd-tier": "The current caravan leader, Marvin, is the great grandson of the original creator of the caravan, Theodore. While this might seem insignificant to most people, upon further investigation, has become clear that his bloodline is not one of irrelevance. Theodore appear to have been involved with numerous angelic creatures, as his burrial was attended by two angels, Zariel and Gabriel being two of them. They left some Godly artifacts in his tomb, and uncovering these might prove to be invaluable in the fight against demons, should a war break out between the Heavens and Hells. Marvin has been searching for his great grandfathers burial site, but so far, has had no luck."
+      },
+      "carriages": {
+        "1st-carriage": "The leading coach of the caravan, the one in which the caravan leader resides. As with all of the wagons, it appears much smaller on the outside than on the inside, and outwardly presenting as an old wooden wagon, but on the inside, dressed in purple and blue silk, with only a dim torch, shedding an almost black light on the interior, and displaying some of the magical items sold.",
+        "2nd-carriage": "The second carriage from the front, mostly resembling a small wagon, constructed from wooden beams, with the occasional iron bar for the sake of vanity. On the inside however, the small space is expanded into an expansive foundry, which, together with a small forge, holds a plethora of iron, steel, a few silver, and a single piece of Storm Metal gear.",
+        "3rd-carriage": "The third carriage from the front has a plethora of windows, dressing the otherwise mostly wooden side of the wagon. Bright lights shine from within, as plants, bottles, potions and different kind of powders fill the backwall. Behind the counter does the ever charming Nemeia operate the store. Despite her good looks and charismatic mannerisms, she is mostly secretive to her customers, wearing a dark brown cloak and hood.",
+        "4th-carriage": "The fourth carriage from the front is as old and dusty and the inside, with old oak wooden beams holding up the roof, and a little moonlight window in the ceiling. On the inside, the dimly lit room is filled to the brim with bookcases, old journals and ancient manuals. Underneath the counter, a journal describing the heritage of the caravan leader, is securely locked and rarely displayed, and never sold.",
+        "5th-carriage": "The fifth carriage from the front is composed of bright wood, with beautiful beams holding up the glass dome in the ceiling. Green vines cover the inside of the glass, and cover most of the walls on the inside. Occasionally a monkeys hand or an eagles wing can be seen from the outside. The inside appears much as expected, with small trees, bushes and vines decorating the sides, as plenty of small animals jump around, and make a small spectactle. However wild these animals appear, they are in fact trained, and can accompany you in your travels."
+      },
+      "people": {
+        "Marvin the Magnificent": {
+          "occupation": "Leader of Marvins Miraculous Caravan",
+          "history": {
+            "1st-tier": "Is the great grandson of the original creator of the caravan, and thus the heir of the role as Caravanleader. He has been leading the caravan for about 50 years now, and has acquired a plethora of magical gadgets.",
+            "2nd-tier": "While his motives appear very material, acquiring a great fortune of gold and peculiar items, he appears to seek a more glorious statue for himself. Seeking through his carriage might reveal more information about what he is truly perspiring underneath the cover of the caravan."
+          },
+          "location": {
+            "1st-tier": "Inhabits the frontmost carriage of the caravan. Its inside is dimly lit, and mostly resembles a fortune tellers den.",
+            "2nd-tier": "At the back of the carriage, lies a different kind of crystal sphere. Among the dusty clouds, blocking the view from the outside, a bloodred horned face is staring out. This face belongs to the demon lord Taliphet, the first servant of Zodrak, the demon prince."
+          },
+          "characteristics": "A handsome drow man, not appearing a day over 100, but has the wisdom of a thousand lifetimes, however mischevious he might appear."
+        },
+        "Nemeia Florara": {
+          "occupation": "Works in Marvins Miraculous Caravan, selling potions and other consumables.",
+          "history": {
+            "1st-tier": "A tiefling picked up from the southern part of Desolate Plateau, Nemeia works as the primary supplier of alchemical components, as well as alchemy products in the caravan. "
+          },
+          "location": {
+            "1st-tier": "Occupies the 3rd carraige in the caravan, filled with potions, brews and a peculiar set of dusty substances, including the highly experimental 'explosive powder'."
+          },
+          "characteristics": "A most beautiful face and tiny, yet pointy, horns poking out from her lucious dark black hair. Is most often wearing a hood, covering her Tiefling mark, and disguise runes to hide her red skin."
+        }
+      }
+    }
+  },
+  "journals": {
+    "Lost Miners Lead": {
+      "1st-page": "June 1st, 827\n'Ello there book. I am writing this now, just as a way to remember the tale of MY great adventure in my olden days. I am but a wee young dwarf now, a mere 50, and I want to tell my tale to my grandkids and their little ones. \nAnyway, I am currently sitting in a tavern in some small village near the border between the Plateau and Ebon Reach. My father told me of some wizard who frequents this place, so I figured I'd give him a visit. \nI have heard some people in their stall muttering about a great vein of Storm Metal ore in the mountains of the Plateau, so maybe the guy can tell me how to get to it first.\nThoradin",
+      "2nd-page": "June 3rd, 827\nGreetings my pal. I have now been travelling for two full sundowns, and have just put up my camp for the night. I reckon I am on the tail of something big.\nThe note I got from the wizard in the tavern told me to go to this lodge in the forrest, but when I got there, it had been ravaged by some bloody giant claws. Lucky for me, whatever had been there, it had left a huge trail through the woods, that was easy for me to follow.\nI followed the trail for a day, and it led me to a cave. I have put up my tent outside, roasted a rabbit I found and am drinking some ale from Nyara. Absolutely my favourite. I think I will check it out on the morrow.\nThoradin",
+      "3rd-page": "3rd",
+      "4th-page": "4th",
+      "5th-page": "5th"
+    },
+    "Journal of Isak": {
+      "3rd-page": "May 3rd, Anno 826\nTomorrow I have an important meeting with a sorcerer. I do not know where he is from, but his name is Aaravos. He is said to be the most powerful magic user in the continent, and it bothers me that he is unwilling to answer to MY call whenever I want. However, he is too dangerous to make my enemy. Besides, with the amount bread and meat left, we are in dire need of some assistance.\nToday is also the 2 year anniversary since my father died. Such a 'tradegy', huh. An old man, too caught up in empathy and compassion to do what must be done. Good riddance.\n\nIsak Altores",
+      "7th-page": "May 23rd, Anno 826\nIt has now been 3 days since the ritual. I do not know how long it will be until it begins to take effect, but the food supply is running dangerously low. The horses have not been fed for many days now, and the stewards have been eating breadcrumbs for breakfast. Aaravos's price was high, and I do feel for the kids who had to endure it, but it has been done, their lives will not be given in vain. As soon as the spell takes effect, we will never be in short supply of culinary plenty.\n\nIsak Altores",
+      "11th-page": "June 10th, Anno 826\nToday, the first fruit of the spell was granted. I didn't see it at first, but it became obvious as soon as it was tasted. One of the local farmers rolled into the town with an entire carriage of bread, and had plenty more back at the farm. As any good King should, I of course seized it for myself first, and made sure to distribute enough for the citizen.\nWhen I say it was obvious from the taste, that is unfortunately not a positive remark. As soon as the bread hit my tongue, a burning sensation ran through my body, and a taste of burned flesh and spoiled meat overwhelmed my senses. It did not take long to perish, and while the rest of the bread seemed untainted, the memory still haunts me. What was this bread made of? How could it incur such a disgusting reaction? I do not know, but there is thankfully enough food to sate the city for many moons.\n\nIsak Altores",
+      "12th-page": "June 12th, Anno 826\nThe wizard returned; much to my disliking, as I would rather not have to deal with such demonic forces once more. He asked how the ritual was working, and I told him as best as I could, that everything appeared to be in order. There was plenty of food, and the bread was 'wonderful'. I of course did not mention the taste of flesh and meat in the first bite, but the problem did not appear to persist, so I figured it would not be a problem in the future.\nHe looked like he was satisfied with my answer, and asked what had been done to the children. Despite my best efforts, I had not been able to suppress the memories of their execution. Drawing the knife across their throats and letting the blood spill down on the red circle. How it had instantly vaporised upon contacting the ground, expelling a foul stench as the smoke gathered into a sphere in the room. Aaravos was not there himself during the ritual, but had instructed some of the Children of Zodrak on how to perform the spell.\nI gave a few of the details, but left out the more gruesome elements. Again, he appeared to be content with the answer, and thankfully was quickly out of the city. I am not sure how I feel about the whole ordeal, but what is done is done, and it was necessary.\nI did not have a choice.\n\nIsak Altores",
+      "13th-page": "June 30th, Anno 826\nI do not know how to explain this to you my dear diary, but I fear that despite the amount of blood that has been spilled already, there is more to come. For the past few weeks, our infirmaries around the region have been experiencing terrible occurrences of a new disease. The peasants are bringing in their children who have been fed the newest and dearly needed provisions, but they have taken ill. Against my will, my advisors encouraged me to go to one of these places and show that it is nothing to worry about, but I could hardly stomach the sight upon laying my eyes on these poor kids.\nI will not go into all of the harrowing details I saw, but the one that stuck with me the most, and have caused many sleepless nights, I cannot escape.\nA mother of 3 brought in her youngest son, no more than a few years at most. His eyes were shut, and his mother could not even get a word from her lips, as her bawling was suppressing anything that tried to escape. When the doctor forced the eyes of the boy up, terror struck me to my core. Bloodred, lifeless shells were staring back at me, and as I stumbled backwards, his head tilted up, and appeared to peer directly into my soul. Shortly after hitting the ground, the child fell back and once again remained still.\nI do not know what terror has been unleashed, but I fear the worst. For now at least, I am overjoyed that this curse only appears to affect the very young, and very rarely even then.\n\nIsak Altores"
+    },
+    "Trial by Fire": "Extinguish the flame\nand the Path you will claim\nnor water or air\nwill aid the true Heir\nbut out it must be\nfor the path to be seen",
+    "Infernal Instruments": {
+      "1st-piece": {
+        "1st-page": "December 14th, Anno 437\nI think I am on the lead to something big. I am writing this diary as a way to keep my mind clear and focused on the task at hand. I must not be distracted, and with the amount of deception and illusions in my path, it is no easy feat.\nI recently found a small metallic device. It mostly resembled a pocket watch, made out of the purest silver and oak wood, but upon picking it apart, I discovered something much, much more valuable. I wish I could describe it in more detail, but you'll have to wait. I have someone a meeting with someone soon, who is very interested in the watch. I'll see you later.\nRemember, death comes for those who rest.",
+        "instrument": "A small pocket watch, made out of a dark oak base and a silver lid and chain. The dials of the piece does not appear to function normally, jumping back and forwards unpredictably.\n\nPressing a button on the side activates the watch for 1 minutes. While active, pressing the button again turns back time 6 seconds. If the button is not pressed again, the effect will disperse. The watch can only be activated once per week, but can be reactivated by using Jewelers tools with proficiency for an hour."
+      },
+      "2nd-piece": {
+        "1st-page": "January 27th, Anno 624\n'Tis the peak of the winter season, and the crops have all succumbed to the cold. My father, the King, has been becoming more and more desperate in search of nutrition for his people, and it pains me to see him in such distress. I fear for his wellbeing, should he not find solutions to his worries.\nI myself have been searching for a mean of ending this starvation. While nothing adequate has been uncovered, I have come in contact with a mysterious man with bright blue hair. Albeit, he does not appear to quite be a man of Vaii, he proposes to posses the answer for our troubles.\n\nPrincess Juno Altores ",
+        "2nd-page": "February 14th, Anno 624\nI have now met with the stranger. I am afraid that only grave news follow however. As mentioned, he mentioned that he may have a solution to the scarcity of bread, and while true, he wilfully neglected to disclose the involvement of demonic wizardry.\nNevertheless, the price is low and I was willing to make the sacrifice on behalf of the King. Upon agreeing to the contract, the blue coated wanderer presented me with a blade, and told me to pierce the heart of a sheep at the following full moon. He assured me, that food would be no problem for the following 200 years or so. And as such, I will take it upon myself to aid the Kingdom, and follow through with the ritual, since the 'King' apparently isn't able.\n\nPrincess Juno Altores",
+        "3rd-page": "March 1st, Anno 624\nDespite the termination of the contract, I have continued talking with the wanderer. He appears to be very well versed in history, architecture and the like, and is extremely adept at magical whimsy. In addition to this, he has spoken to me about many of his other ideas. "
+      },
+      "3rd-piece": {}
+    }
+  },
+  "religions": {
+    "Faith of the Three": {
+      "major gods": {
+        "Setja": {
+          "domain": "Nature and Life.",
+          "title": "God of Grain and Farming.",
+          "representation": "A wide woman in a brown robe, often in the field with a scythe.",
+          "symbolize": "A hope for a better harvest, and good nurture and health.",
+          "sigil": "A scythe made from wheat beads."
+        },
+        "Megin": {
+          "domain": "War, Tempest and Light.",
+          "title": "God of Justice and Wrath.",
+          "representation": "A bulky blind man, wielding a two-handed axe. Wears a blindfold.",
+          "symbolize": "The two-sided blade that can be strength. How it can both bring justice to those who deserve it, and can be used for vengeance and wrath if unwisely wielded.",
+          "sigil": "A hammer shining both white and black light."
+        },
+        "Veidyr": {
+          "domain": "Nature and Death.",
+          "title": "God of the hunt.",
+          "representation": "A steady, well-built archer with a longbow over his shoulder. Carries a boars head on his helmet.",
+          "symbolize": "The two sides of hunting, the determination that is required, and the compassion for the beasts that you slay.",
+          "sigil": "A pierced boar."
+        }
+      },
+      "description": "An old traditionalist religion, that is the foundation of the belief system in the High North and Wetlands. Has existed for millennia, and has likely sprung from the first settlers need for a cooperating community, as the harsh winters were a struggle to survive.",
+      "belief": "Believes that nature and law are strong forces that cannot be bent to will, but rather are attributes of the Gods that only foolish human attempt to control.",
+      "sigil": "A shield with a dark outline of a howling bear, and snow in the distance."
+    },
+    "Seven Faced Vaii": {
+      "major gods": {
+        "Vaii": {
+          "domain": "Knowledge, Life, Light, Nature, Tempest, Trickery, and War.",
+          "title": "The True Goddess.",
+          "representation": "Is the embodiment of all the holy powers, joined in one human-like figure.",
+          "symbolize": "The ever-changing nature of people.",
+          "sigil": "A hooded woman."
+        }
+      },
+      "minor gods": {
+        "Academia": {
+          "domain": "Knowledge.",
+          "title": "Vaiiena Face.",
+          "representation": "Exists as the face of the pursuit of knowledge and wisdom within people.",
+          "sigil": "A hooded woman with closed eyes."
+        },
+        "Anger": {
+          "domain": "War and Tempest.",
+          "title": "Vaiiares Face.",
+          "representation": "Exists as the face of anger and wrath within people.",
+          "sigil": "A hooded woman with bloodshot eyes."
+        },
+        "Nurture": {
+          "domain": "Life.",
+          "title": "Vaiiera Face.",
+          "representation": "Exists as the face of care and empathy within people.",
+          "sigil": "A hooded woman with blushed cheeks."
+        },
+        "Heavens": {
+          "domain": "Light.",
+          "title": "Vallux Face.",
+          "representation": "Exists as the face of good and justice within people.",
+          "sigil": "A hooded woman with light instead of eyes."
+        },
+        "Naturalia": {
+          "domain": "Nature and Life.",
+          "title": "Vaiida Face.",
+          "representation": "Exists as the face of compassion and love within people.",
+          "sigil": "A hooded woman with green eyes."
+        },
+        "Decera": {
+          "domain": "Trickery.",
+          "title": "Vaiioi Face.",
+          "representation": "Exists as the face of deception and corruption within people.",
+          "sigil": "A hooded woman with blindfolded eyes."
+        },
+        "Terrifia": {
+          "domain": "Tempest and Knowledge.",
+          "title": "Vaiimor Face.",
+          "representation": "Exists as the face of fear and the unknown within people.",
+          "sigil": "A hooden woman with lighting eyes."
+        }
+      },
+      "description": "A fairly new religion. Was founded by one of Omaks predecessors, and is worshipped by the Royal family. Has been the banner of conquest, with the Vaiiares Face on the front. ",
+      "belief": "Believes the King is a descendent of Vaii, and that whenever he commands something, it is the will of God.",
+      "sigil": "A hooded woman on a golden coin."
+    },
+    "Arbor and Occid": {
+      "major gods": {
+        "Arbor": {
+          "domain": "Nature and Life.",
+          "title": "God of the Wild.",
+          "representation": "Exists as everything natural. Is the essence of all things living, what breathes life into animals and the forest.",
+          "symbolize": "Everything alive and good.",
+          "sigil": "A heart, wound by a red leafed branch."
+        },
+        "Occid": {
+          "domain": "Death and Tempest.",
+          "title": "God of Corruption and Decay.",
+          "representation": "Exists as everything dead. Is the lack of a life essence, seen as everything dead and unnatural, including metal and other types of stone.",
+          "symbolize": "Everything dead and bad.",
+          "sigil": "A skull, with dark red eyes."
+        },
+        "description": "A religion so bound by nature, that is has existed ever since the first beings, who were able to worship objects have. It is primarily half-animals who worship these, such as the Tabaxi of the Taiga Isles, or the Furbolgs in Langara.",
+        "belief": "Believes that life and death is a duality, and that everything is constructed and destroyed by these. Does not like new inventions, or non spiritual beings.",
+        "sigil": "A red and a white fox, chasing one another in a circle, in the style of double ouroboros."
+      }
+    }
+  },
+  "date": "19th of October, Anno 827"
+}

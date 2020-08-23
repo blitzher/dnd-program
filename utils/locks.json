@@ -1,0 +1,815 @@
+{
+  "locks": {
+    "none": [],
+    "V7M8YVH5": [
+      "provinces",
+      "provinces/High North",
+      "provinces/High North/cities",
+      "provinces/High North/cities/Baumgarden",
+      "provinces/High North/cities/Baumgarden/location",
+      "provinces/High North/cities/Baumgarden/location/1st-tier",
+      "provinces/High North/cities/Baumgarden/location/2nd-tier",
+      "provinces/High North/cities/Baumgarden/location/3rd-tier"
+    ],
+    "mkX6DqtE": [
+      "religions",
+      "religions/Faith of the Three",
+      "religions/Faith of the Three/belief",
+      "religions/Faith of the Three/description",
+      "religions/Faith of the Three/major gods",
+      "religions/Faith of the Three/major gods/Megin",
+      "religions/Faith of the Three/major gods/Megin/domain",
+      "religions/Faith of the Three/major gods/Megin/representation",
+      "religions/Faith of the Three/major gods/Megin/sigil",
+      "religions/Faith of the Three/major gods/Megin/symbolize",
+      "religions/Faith of the Three/major gods/Megin/title",
+      "religions/Faith of the Three/major gods/Setja",
+      "religions/Faith of the Three/major gods/Setja/domain",
+      "religions/Faith of the Three/major gods/Setja/representation",
+      "religions/Faith of the Three/major gods/Setja/sigil",
+      "religions/Faith of the Three/major gods/Setja/symbolize",
+      "religions/Faith of the Three/major gods/Setja/title",
+      "religions/Faith of the Three/major gods/Veidyr",
+      "religions/Faith of the Three/major gods/Veidyr/domain",
+      "religions/Faith of the Three/major gods/Veidyr/representation",
+      "religions/Faith of the Three/major gods/Veidyr/sigil",
+      "religions/Faith of the Three/major gods/Veidyr/symbolize",
+      "religions/Faith of the Three/major gods/Veidyr/title",
+      "religions/Faith of the Three/sigil"
+    ],
+    "3dqCokxy": [
+      "religions",
+      "religions/Arbor and Occid",
+      "religions/Arbor and Occid/belief",
+      "religions/Arbor and Occid/description",
+      "religions/Arbor and Occid/major gods",
+      "religions/Arbor and Occid/major gods/Arbor",
+      "religions/Arbor and Occid/major gods/Arbor/domain",
+      "religions/Arbor and Occid/major gods/Arbor/representation",
+      "religions/Arbor and Occid/major gods/Arbor/sigil",
+      "religions/Arbor and Occid/major gods/Arbor/symbolize",
+      "religions/Arbor and Occid/major gods/Arbor/title",
+      "religions/Arbor and Occid/major gods/Occid",
+      "religions/Arbor and Occid/major gods/Occid/domain",
+      "religions/Arbor and Occid/major gods/Occid/representation",
+      "religions/Arbor and Occid/major gods/Occid/sigil",
+      "religions/Arbor and Occid/major gods/Occid/symbolize",
+      "religions/Arbor and Occid/major gods/Occid/title",
+      "religions/Arbor and Occid/sigil"
+    ],
+    "OP7BXn7h": [
+      "provinces",
+      "provinces/Desolate Plateau",
+      "provinces/Desolate Plateau/cities",
+      "provinces/Desolate Plateau/cities/Ganguan Tribe",
+      "provinces/Desolate Plateau/cities/Ganguan Tribe/history",
+      "provinces/Desolate Plateau/cities/Ganguan Tribe/history/1st-tier",
+      "provinces/Desolate Plateau/cities/Ganguan Tribe/location",
+      "provinces/Desolate Plateau/cities/Ganguan Tribe/location/1st-tier",
+      "provinces/Desolate Plateau/cities/Ganguan Tribe/people",
+      "provinces/Desolate Plateau/cities/Ganguan Tribe/people/Karmok Flareblaser",
+      "provinces/Desolate Plateau/cities/Ganguan Tribe/people/Karmok Flareblaser/occupation",
+      "provinces/Desolate Plateau/cities/Ganguan Tribe/people/Karmok Flareblaser/characteristics",
+      "provinces/Desolate Plateau/history",
+      "provinces/Desolate Plateau/history/1st-tier",
+      "provinces/Desolate Plateau/location",
+      "provinces/Desolate Plateau/location/1st-tier",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/history",
+      "provinces/Ebon Reach/history/1st-tier",
+      "provinces/Ebon Reach/location",
+      "provinces/Ebon Reach/location/1st-tier",
+      "history",
+      "history/1st-tier"
+    ],
+    "QLxad4r3": [
+      "provinces",
+      "provinces/Desolate Plateau",
+      "provinces/Desolate Plateau/location",
+      "provinces/Desolate Plateau/location/1st-tier",
+      "provinces/Desolate Plateau/location/2nd-tier"
+    ],
+    "Qlal1d4i": [
+      "provinces",
+      "provinces/Desolate Plateau",
+      "provinces/Desolate Plateau/cities/Ganguan Tribe/location",
+      "provinces/Desolate Plateau/cities/Ganguan Tribe/location/2nd-tier"
+    ],
+    "jPc8kbRO": [
+      "provinces",
+      "provinces/Desolate Plateau",
+      "provinces/Desolate Plateau/location",
+      "provinces/Desolate Plateau/location/1st-tier",
+      "provinces/Desolate Plateau/location/2nd-tier",
+      "provinces/Desolate Plateau/location/3rd-tier"
+    ],
+    "R3DHmOV0": [
+      "provinces",
+      "provinces/Desolate Plateau",
+      "provinces/Desolate Plateau/history",
+      "provinces/Desolate Plateau/history/1st-tier",
+      "provinces/Desolate Plateau/history/2nd-tier"
+    ],
+    "hrCSIPpv": [
+      "provinces",
+      "provinces/Desolate Plateau",
+      "provinces/Desolate Plateau/history",
+      "provinces/Desolate Plateau/history/1st-tier",
+      "provinces/Desolate Plateau/history/2nd-tier",
+      "provinces/Desolate Plateau/history/3rd-tier"
+    ],
+    "5deDMvNs": [
+      "provinces",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/cities",
+      "provinces/Ebon Reach/cities/Crossroads",
+      "provinces/Ebon Reach/cities/Crossroads/history",
+      "provinces/Ebon Reach/cities/Crossroads/history/1st-tier"
+    ],
+    "63O7RbXh": [
+      "provinces",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/cities",
+      "provinces/Ebon Reach/cities/Crossroads",
+      "provinces/Ebon Reach/cities/Crossroads/location",
+      "provinces/Ebon Reach/cities/Crossroads/location/1st-tier"
+    ],
+    "YNyNo5C1": [
+      "provinces",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/cities",
+      "provinces/Ebon Reach/cities/Crossroads",
+      "provinces/Ebon Reach/cities/Crossroads/history",
+      "provinces/Ebon Reach/cities/Crossroads/history/1st-tier",
+      "provinces/Ebon Reach/cities/Crossroads/location",
+      "provinces/Ebon Reach/cities/Crossroads/location/1st-tier"
+    ],
+    "VcLYM1pR": [
+      "journals",
+      "journals/Lost Miners Lead",
+      "journals/Lost Miners Lead/1st-page"
+    ],
+    "nYFmgo1N": [
+      "religions",
+      "religions/Seven Faced Vaii",
+      "religions/Seven Faced Vaii/belief",
+      "religions/Seven Faced Vaii/description",
+      "religions/Seven Faced Vaii/major gods",
+      "religions/Seven Faced Vaii/major gods/Vaii",
+      "religions/Seven Faced Vaii/major gods/Vaii/domain",
+      "religions/Seven Faced Vaii/major gods/Vaii/representation",
+      "religions/Seven Faced Vaii/major gods/Vaii/sigil",
+      "religions/Seven Faced Vaii/major gods/Vaii/symbolize",
+      "religions/Seven Faced Vaii/major gods/Vaii/title",
+      "religions/Seven Faced Vaii/minor gods",
+      "religions/Seven Faced Vaii/minor gods/Academia",
+      "religions/Seven Faced Vaii/minor gods/Academia/domain",
+      "religions/Seven Faced Vaii/minor gods/Academia/representation",
+      "religions/Seven Faced Vaii/minor gods/Academia/sigil",
+      "religions/Seven Faced Vaii/minor gods/Academia/title",
+      "religions/Seven Faced Vaii/minor gods/Anger",
+      "religions/Seven Faced Vaii/minor gods/Anger/domain",
+      "religions/Seven Faced Vaii/minor gods/Anger/representation",
+      "religions/Seven Faced Vaii/minor gods/Anger/sigil",
+      "religions/Seven Faced Vaii/minor gods/Anger/title",
+      "religions/Seven Faced Vaii/minor gods/Decera",
+      "religions/Seven Faced Vaii/minor gods/Decera/domain",
+      "religions/Seven Faced Vaii/minor gods/Decera/representation",
+      "religions/Seven Faced Vaii/minor gods/Decera/sigil",
+      "religions/Seven Faced Vaii/minor gods/Decera/title",
+      "religions/Seven Faced Vaii/minor gods/Heavens",
+      "religions/Seven Faced Vaii/minor gods/Heavens/domain",
+      "religions/Seven Faced Vaii/minor gods/Heavens/representation",
+      "religions/Seven Faced Vaii/minor gods/Heavens/sigil",
+      "religions/Seven Faced Vaii/minor gods/Heavens/title",
+      "religions/Seven Faced Vaii/minor gods/Naturalia",
+      "religions/Seven Faced Vaii/minor gods/Naturalia/domain",
+      "religions/Seven Faced Vaii/minor gods/Naturalia/representation",
+      "religions/Seven Faced Vaii/minor gods/Naturalia/sigil",
+      "religions/Seven Faced Vaii/minor gods/Naturalia/title",
+      "religions/Seven Faced Vaii/minor gods/Nurture",
+      "religions/Seven Faced Vaii/minor gods/Nurture/domain",
+      "religions/Seven Faced Vaii/minor gods/Nurture/representation",
+      "religions/Seven Faced Vaii/minor gods/Nurture/sigil",
+      "religions/Seven Faced Vaii/minor gods/Nurture/title",
+      "religions/Seven Faced Vaii/minor gods/Terrifia",
+      "religions/Seven Faced Vaii/minor gods/Terrifia/domain",
+      "religions/Seven Faced Vaii/minor gods/Terrifia/representation",
+      "religions/Seven Faced Vaii/minor gods/Terrifia/sigil",
+      "religions/Seven Faced Vaii/minor gods/Terrifia/title",
+      "religions/Seven Faced Vaii/sigil"
+    ],
+    "TafuNsCg": [
+      "provinces",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/cities",
+      "provinces/Ebon Reach/cities/Crossroads",
+      "provinces/Ebon Reach/cities/Crossroads/people",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty/characteristics",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty/occupation"
+    ],
+    "tH4MLgxI": [
+      "provinces",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/cities",
+      "provinces/Ebon Reach/cities/Crossroads",
+      "provinces/Ebon Reach/cities/Crossroads/people",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty/characteristics",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty/location",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty/location/1st-tier",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty/occupation"
+    ],
+    "C2Ng84jS": [
+      "provinces",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/cities",
+      "provinces/Ebon Reach/cities/Crossroads",
+      "provinces/Ebon Reach/cities/Crossroads/people",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty/characteristics",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty/history",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty/history/1st-tier",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty/occupation"
+    ],
+    "1rC59xoQ": [
+      "provinces",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/cities",
+      "provinces/Ebon Reach/cities/Crossroads",
+      "provinces/Ebon Reach/cities/Crossroads/people",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty/characteristics",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty/history",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty/history/1st-tier",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty/location",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty/location/1st-tier",
+      "provinces/Ebon Reach/cities/Crossroads/people/Dobrun the Mighty/occupation"
+    ],
+    "9ffjA7UQ": [
+      "provinces",
+      "provinces/Kingshaven",
+      "provinces/Kingshaven/cities",
+      "provinces/Kingshaven/cities/Port Reges",
+      "provinces/Kingshaven/cities/Port Reges/location",
+      "provinces/Kingshaven/cities/Port Reges/location/1st-tier"
+    ],
+    "hI4AsnCB": [
+      "journals",
+      "journals/Journal of Isak",
+      "journals/Journal of Isak/3rd-page"
+    ],
+    "Q5PzXMAx": [
+      "journals",
+      "journals/Journal of Isak",
+      "journals/Journal of Isak/7th-page"
+    ],
+    "rT3adkaD": [
+      "provinces",
+      "provinces/Kingshaven",
+      "provinces/Kingshaven/cities",
+      "provinces/Kingshaven/cities/Port Reges",
+      "provinces/Kingshaven/cities/Port Reges/history",
+      "provinces/Kingshaven/cities/Port Reges/history/1st-tier",
+      "provinces/Kingshaven/cities/Port Reges/location",
+      "provinces/Kingshaven/cities/Port Reges/location/1st-tier"
+    ],
+    "f2nHJZ52": [
+      "provinces",
+      "provinces/Kingshaven",
+      "provinces/Kingshaven/cities",
+      "provinces/Kingshaven/cities/Port Reges",
+      "provinces/Kingshaven/cities/Port Reges/history",
+      "provinces/Kingshaven/cities/Port Reges/history/1st-tier"
+    ],
+    "o3MHo1Gh": [
+      "provinces",
+      "provinces/Kingshaven",
+      "provinces/Kingshaven/cities",
+      "provinces/Kingshaven/cities/Port Reges",
+      "provinces/Kingshaven/cities/Port Reges/people",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores/characteristics",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores/occupation"
+    ],
+    "0pfuy5EM": [
+      "provinces",
+      "provinces/Kingshaven",
+      "provinces/Kingshaven/cities",
+      "provinces/Kingshaven/cities/Port Reges",
+      "provinces/Kingshaven/cities/Port Reges/people",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores/characteristics",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores/location",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores/location/1st-tier",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores/occupation"
+    ],
+    "02gfLaO7": [
+      "provinces",
+      "provinces/Kingshaven",
+      "provinces/Kingshaven/cities",
+      "provinces/Kingshaven/cities/Port Reges",
+      "provinces/Kingshaven/cities/Port Reges/people",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores/characteristics",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores/history",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores/history/1st-tier",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores/occupation"
+    ],
+    "rq8B6oYf": [
+      "provinces",
+      "provinces/Kingshaven",
+      "provinces/Kingshaven/cities",
+      "provinces/Kingshaven/cities/Port Reges",
+      "provinces/Kingshaven/cities/Port Reges/people",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores/characteristics",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores/history",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores/history/1st-tier",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores/location",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores/location/1st-tier",
+      "provinces/Kingshaven/cities/Port Reges/people/Isak Altores/occupation"
+    ],
+    "qSHSrs9L": [
+      "provinces",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/cities",
+      "provinces/Ebon Reach/cities/Nyara"
+    ],
+    "kFnEkIu0": [
+      "provinces",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/cities",
+      "provinces/Ebon Reach/cities/Nyara",
+      "provinces/Ebon Reach/cities/Nyara/location",
+      "provinces/Ebon Reach/cities/Nyara/location/1st-tier"
+    ],
+    "o17BRBZi": [
+      "provinces",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/cities",
+      "provinces/Ebon Reach/cities/Nyara",
+      "provinces/Ebon Reach/cities/Nyara/history",
+      "provinces/Ebon Reach/cities/Nyara/history/1st-tier"
+    ],
+    "Nt5xZTn6": [
+      "provinces",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/cities",
+      "provinces/Ebon Reach/cities/Nyara",
+      "provinces/Ebon Reach/cities/Nyara/history",
+      "provinces/Ebon Reach/cities/Nyara/history/1st-tier",
+      "provinces/Ebon Reach/cities/Nyara/location",
+      "provinces/Ebon Reach/cities/Nyara/location/1st-tier"
+    ],
+    "U8DAlJYZ": [
+      "provinces",
+      "provinces/Kingshaven",
+      "provinces/Kingshaven/cities",
+      "provinces/Kingshaven/cities/Port Reges",
+      "provinces/Kingshaven/cities/Port Reges/people",
+      "provinces/Kingshaven/cities/Port Reges/people/Martin Altores",
+      "provinces/Kingshaven/cities/Port Reges/people/Martin Altores/characteristics",
+      "provinces/Kingshaven/cities/Port Reges/people/Martin Altores/occupation"
+    ],
+    "jITEUlEf": [
+      "provinces",
+      "provinces/Kingshaven",
+      "provinces/Kingshaven/location",
+      "provinces/Kingshaven/location/1st-tier"
+    ],
+    "qlTX2FhL": [
+      "provinces",
+      "provinces/Kingshaven",
+      "provinces/Kingshaven/location",
+      "provinces/Kingshaven/location/1st-tier",
+      "provinces/Kingshaven/location/2nd-tier"
+    ],
+    "Cyp4A3LH": [
+      "people",
+      "people/Magnus Heck",
+      "people/Magnus Heck/characteristics",
+      "people/Magnus Heck/occupation"
+    ],
+    "Eh1MMc3z": [
+      "people",
+      "people/Magnus Heck",
+      "people/Magnus Heck/characteristics",
+      "people/Magnus Heck/location",
+      "people/Magnus Heck/location/1st-tier",
+      "people/Magnus Heck/occupation"
+    ],
+    "akONMl4G": [
+      "people",
+      "people/Magnus Heck",
+      "people/Magnus Heck/characteristics",
+      "people/Magnus Heck/history",
+      "people/Magnus Heck/history/1st-tier",
+      "people/Magnus Heck/occupation"
+    ],
+    "sDukQa0L": [
+      "people",
+      "people/Magnus Heck",
+      "people/Magnus Heck/characteristics",
+      "people/Magnus Heck/history",
+      "people/Magnus Heck/history/1st-tier",
+      "people/Magnus Heck/location",
+      "people/Magnus Heck/location/1st-tier",
+      "people/Magnus Heck/occupation"
+    ],
+    "V3MJbR5J": [
+      "provinces",
+      "provinces/Storms Peak",
+      "provinces/Storms Peak/cities",
+      "provinces/Storms Peak/cities/Storms Eye",
+      "provinces/Storms Peak/cities/Storms Eye/people",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/characteristics",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/occupation"
+    ],
+    "DEKvrQGa": [
+      "provinces",
+      "provinces/Storms Peak",
+      "provinces/Storms Peak/cities",
+      "provinces/Storms Peak/cities/Storms Eye",
+      "provinces/Storms Peak/cities/Storms Eye/people",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/characteristics",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/location",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/location/1st-tier",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/occupation"
+    ],
+    "zj2jOxh6": [
+      "provinces",
+      "provinces/Storms Peak",
+      "provinces/Storms Peak/cities",
+      "provinces/Storms Peak/cities/Storms Eye",
+      "provinces/Storms Peak/cities/Storms Eye/people",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/characteristics",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/history",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/history/1st-tier",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/location",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/location/1st-tier",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/occupation"
+    ],
+    "2FsNsjMv": [
+      "provinces",
+      "provinces/Storms Peak",
+      "provinces/Storms Peak/cities",
+      "provinces/Storms Peak/cities/Storms Eye",
+      "provinces/Storms Peak/cities/Storms Eye/people",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/characteristics",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/history",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/history/1st-tier",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/history/2nd-tier",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/location",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/location/1st-tier",
+      "provinces/Storms Peak/cities/Storms Eye/people/Tycho Aurelius/occupation"
+    ],
+    "zOHDLGId": [
+      "journals",
+      "journals/Trial by Fire"
+    ],
+    "T3KGpcr8": [
+      "organisations",
+      "organisations/Children of Zodrak",
+      "organisations/Children of Zodrak/people",
+      "organisations/Children of Zodrak/signatures"
+    ],
+    "qdFmKOO3": [
+      "organisations",
+      "organisations/Children of Zodrak",
+      "organisations/Children of Zodrak/history",
+      "organisations/Children of Zodrak/history/1st-tier",
+      "organisations/Children of Zodrak/people",
+      "organisations/Children of Zodrak/signatures"
+    ],
+    "tz1pINCN": [
+      "provinces",
+      "provinces/Desolate Plateau",
+      "provinces/Desolate Plateau/cities",
+      "provinces/Desolate Plateau/cities/Crestiel"
+    ],
+    "nqvvvbeM": [
+      "provinces",
+      "provinces/Desolate Plateau",
+      "provinces/Desolate Plateau/cities",
+      "provinces/Desolate Plateau/cities/Crestiel",
+      "provinces/Desolate Plateau/cities/Crestiel/location",
+      "provinces/Desolate Plateau/cities/Crestiel/location/1st-tier"
+    ],
+    "iAC9S8S0": [
+      "provinces",
+      "provinces/Desolate Plateau",
+      "provinces/Desolate Plateau/cities",
+      "provinces/Desolate Plateau/cities/Crestiel",
+      "provinces/Desolate Plateau/cities/Crestiel/history",
+      "provinces/Desolate Plateau/cities/Crestiel/history/1st-tier",
+      "provinces/Desolate Plateau/cities/Crestiel/location",
+      "provinces/Desolate Plateau/cities/Crestiel/location/1st-tier"
+    ],
+    "kjlbuFul": [
+      "organisations",
+      "organisations/Marvins Miraculous Caravan",
+      "organisations/Marvins Miraculous Caravan/people",
+      "organisations/Marvins Miraculous Caravan/signatures"
+    ],
+    "fT2I7fYY": [
+      "organisations",
+      "organisations/Marvins Miraculous Caravan",
+      "organisations/Marvins Miraculous Caravan/history",
+      "organisations/Marvins Miraculous Caravan/history/1st-tier",
+      "organisations/Marvins Miraculous Caravan/people",
+      "organisations/Marvins Miraculous Caravan/signatures"
+    ],
+    "k9Ijl09j": [
+      "organisations",
+      "organisations/Marvins Miraculous Caravan",
+      "organisations/Marvins Miraculous Caravan/history",
+      "organisations/Marvins Miraculous Caravan/history/1st-tier",
+      "organisations/Marvins Miraculous Caravan/history/2nd-tier",
+      "organisations/Marvins Miraculous Caravan/people",
+      "organisations/Marvins Miraculous Caravan/signatures"
+    ],
+    "YpZ1Cjil": [
+      "organisations",
+      "organisations/Marvins Miraculous Caravan",
+      "organisations/Marvins Miraculous Caravan/history",
+      "organisations/Marvins Miraculous Caravan/history/1st-tier",
+      "organisations/Marvins Miraculous Caravan/history/2nd-tier",
+      "organisations/Marvins Miraculous Caravan/history/3rd-tier",
+      "organisations/Marvins Miraculous Caravan/people",
+      "organisations/Marvins Miraculous Caravan/signatures"
+    ],
+    "keihJH8K": [
+      "organisations",
+      "organisations/Marvins Miraculous Caravan",
+      "organisations/Marvins Miraculous Caravan/people",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/characteristics",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/occupation"
+    ],
+    "38tg5MK3": [
+      "organisations",
+      "organisations/Marvins Miraculous Caravan",
+      "organisations/Marvins Miraculous Caravan/people",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/characteristics",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/history",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/history/1st-tier",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/occupation"
+    ],
+    "FLEN2VAA": [
+      "organisations",
+      "organisations/Marvins Miraculous Caravan",
+      "organisations/Marvins Miraculous Caravan/people",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/characteristics",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/history",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/history/1st-tier",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/history/2nd-tier",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/occupation"
+    ],
+    "RIlDXRDY": [
+      "organisations",
+      "organisations/Marvins Miraculous Caravan",
+      "organisations/Marvins Miraculous Caravan/people",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/characteristics",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/location",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/location/1st-tier",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/occupation"
+    ],
+    "fgkvnuCp": [
+      "organisations",
+      "organisations/Marvins Miraculous Caravan",
+      "organisations/Marvins Miraculous Caravan/people",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/characteristics",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/location",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/location/1st-tier",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/location/2nd-tier",
+      "organisations/Marvins Miraculous Caravan/people/Marvin the Magnificent/occupation"
+    ],
+    "vnRzZJEH": [
+      "organisations",
+      "organisations/Marvins Miraculous Caravan",
+      "organisations/Marvins Miraculous Caravan/carriages",
+      "organisations/Marvins Miraculous Caravan/carriages/1st-carriage"
+    ],
+    "R6461vbS": [
+      "organisations",
+      "organisations/Marvins Miraculous Caravan",
+      "organisations/Marvins Miraculous Caravan/carriages",
+      "organisations/Marvins Miraculous Caravan/carriages/2nd-carriage"
+    ],
+    "pMczdVne": [
+      "organisations",
+      "organisations/Marvins Miraculous Caravan",
+      "organisations/Marvins Miraculous Caravan/carriages",
+      "organisations/Marvins Miraculous Caravan/carriages/3rd-carriage"
+    ],
+    "4qYjiTTl": [
+      "organisations",
+      "organisations/Marvins Miraculous Caravan",
+      "organisations/Marvins Miraculous Caravan/carriages",
+      "organisations/Marvins Miraculous Caravan/carriages/4th-carriage"
+    ],
+    "zU1fND6k": [
+      "organisations",
+      "organisations/Marvins Miraculous Caravan",
+      "organisations/Marvins Miraculous Caravan/carriages",
+      "organisations/Marvins Miraculous Caravan/carriages/5th-carriage"
+    ],
+    "0sekTvNA": [
+      "provinces",
+      "provinces/High North",
+      "provinces/High North/cities",
+      "provinces/High North/cities/Baumgarden",
+      "provinces/High North/cities/Baumgarden/people"
+    ],
+    "Z9y0D3vB": [
+      "provinces",
+      "provinces/High North",
+      "provinces/High North/cities",
+      "provinces/High North/cities/Baumgarden",
+      "provinces/High North/cities/Baumgarden/history",
+      "provinces/High North/cities/Baumgarden/history/1st-tier",
+      "provinces/High North/cities/Baumgarden/people"
+    ],
+    "GkX8loBM": [
+      "provinces",
+      "provinces/High North",
+      "provinces/High North/cities",
+      "provinces/High North/cities/Baumgarden",
+      "provinces/High North/cities/Baumgarden/location",
+      "provinces/High North/cities/Baumgarden/location/1st-tier",
+      "provinces/High North/cities/Baumgarden/people"
+    ],
+    "zUpjCNVj": [
+      "provinces",
+      "provinces/Storms Peak",
+      "provinces/Storms Peak/cities",
+      "provinces/Storms Peak/cities/Storms Eye",
+      "provinces/Storms Peak/cities/Storms Eye/history",
+      "provinces/Storms Peak/cities/Storms Eye/history/1st-tier"
+    ],
+    "q8KbSLFl": [
+      "provinces",
+      "provinces/Storms Peak",
+      "provinces/Storms Peak/cities",
+      "provinces/Storms Peak/cities/Storms Eye",
+      "provinces/Storms Peak/cities/Storms Eye/history",
+      "provinces/Storms Peak/cities/Storms Eye/history/1st-tier",
+      "provinces/Storms Peak/cities/Storms Eye/history/2nd-tier"
+    ],
+    "lvDIa68S": [
+      "organisations",
+      "organisations/Marvins Miraculous Caravan",
+      "organisations/Marvins Miraculous Caravan/people",
+      "organisations/Marvins Miraculous Caravan/people/Nemeia Florara",
+      "organisations/Marvins Miraculous Caravan/people/Nemeia Florara/characteristics",
+      "organisations/Marvins Miraculous Caravan/people/Nemeia Florara/occupation"
+    ],
+    "vRgV0PA5": [
+      "organisations",
+      "organisations/Marvins Miraculous Caravan",
+      "organisations/Marvins Miraculous Caravan/people",
+      "organisations/Marvins Miraculous Caravan/people/Nemeia Florara",
+      "organisations/Marvins Miraculous Caravan/people/Nemeia Florara/characteristics",
+      "organisations/Marvins Miraculous Caravan/people/Nemeia Florara/history",
+      "organisations/Marvins Miraculous Caravan/people/Nemeia Florara/history/1st-tier",
+      "organisations/Marvins Miraculous Caravan/people/Nemeia Florara/occupation"
+    ],
+    "dFXZsC7X": [
+      "organisations",
+      "organisations/Marvins Miraculous Caravan",
+      "organisations/Marvins Miraculous Caravan/people",
+      "organisations/Marvins Miraculous Caravan/people/Nemeia Florara",
+      "organisations/Marvins Miraculous Caravan/people/Nemeia Florara/characteristics",
+      "organisations/Marvins Miraculous Caravan/people/Nemeia Florara/location",
+      "organisations/Marvins Miraculous Caravan/people/Nemeia Florara/location/1st-tier",
+      "organisations/Marvins Miraculous Caravan/people/Nemeia Florara/occupation"
+    ],
+    "4IpIaVEk": [
+      "journals",
+      "journals/Journal of Isak",
+      "journals/Journal of Isak/11th-page"
+    ],
+    "qbFisnnd": [
+      "journals",
+      "journals/Journal of Isak",
+      "journals/Journal of Isak/12th-page"
+    ],
+    "ftRYK5BA": [
+      "journals",
+      "journals/Infernal Instruments",
+      "journals/Infernal Instruments/1st-piece",
+      "journals/Infernal Instruments/1st-piece/1st-page"
+    ],
+    "okrYZBNg": [
+      "journals",
+      "journals/Infernal Instruments",
+      "journals/Infernal Instruments/2st-piece",
+      "journals/Infernal Instruments/2st-piece/1st-page"
+    ],
+    "XJvfgisd": [
+      "journals",
+      "journals/Infernal Instruments",
+      "journals/Infernal Instruments/2st-piece",
+      "journals/Infernal Instruments/2st-piece/2nd-page"
+    ],
+    "3dSBMsOF": [
+      "provinces",
+      "provinces/Kingshaven",
+      "provinces/Kingshaven/cities",
+      "provinces/Kingshaven/cities/Galanodel"
+    ],
+    "gmmaTbMu": [
+      "provinces",
+      "provinces/Kingshaven",
+      "provinces/Kingshaven/cities",
+      "provinces/Kingshaven/cities/Galanodel",
+      "provinces/Kingshaven/cities/Galanodel/history",
+      "provinces/Kingshaven/cities/Galanodel/history/1st-tier"
+    ],
+    "Ji7RlP3V": [
+      "provinces",
+      "provinces/Kingshaven",
+      "provinces/Kingshaven/cities",
+      "provinces/Kingshaven/cities/Galanodel",
+      "provinces/Kingshaven/cities/Galanodel/location",
+      "provinces/Kingshaven/cities/Galanodel/location/1st-tier"
+    ],
+    "T3kZeY0b": [
+      "provinces",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/cities",
+      "provinces/Ebon Reach/cities/Torriton"
+    ],
+    "7I3nEYLY": [
+      "provinces",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/cities",
+      "provinces/Ebon Reach/cities/Torriton",
+      "provinces/Ebon Reach/cities/Torriton/history",
+      "provinces/Ebon Reach/cities/Torriton/history/1st-tier"
+    ],
+    "AGHit0cg": [
+      "provinces",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/cities",
+      "provinces/Ebon Reach/cities/Torriton",
+      "provinces/Ebon Reach/cities/Torriton/history",
+      "provinces/Ebon Reach/cities/Torriton/history/1st-tier",
+      "provinces/Ebon Reach/cities/Torriton/history/2nd-tier"
+    ],
+    "CkTgj8vk": [
+      "provinces",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/cities",
+      "provinces/Ebon Reach/cities/Torriton",
+      "provinces/Ebon Reach/cities/Torriton/history",
+      "provinces/Ebon Reach/cities/Torriton/history/1st-tier",
+      "provinces/Ebon Reach/cities/Torriton/history/2nd-tier",
+      "provinces/Ebon Reach/cities/Torriton/history/3rd-tier"
+    ],
+    "XitcMfgC": [
+      "provinces",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/cities",
+      "provinces/Ebon Reach/cities/Torriton",
+      "provinces/Ebon Reach/cities/Torriton/location",
+      "provinces/Ebon Reach/cities/Torriton/location/1st-tier"
+    ],
+    "hRkfguCR": [
+      "provinces",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/cities",
+      "provinces/Ebon Reach/cities/Torriton",
+      "provinces/Ebon Reach/cities/Torriton/location",
+      "provinces/Ebon Reach/cities/Torriton/location/1st-tier",
+      "provinces/Ebon Reach/cities/Torriton/location/2nd-tier"
+    ],
+    "6e6G9nN5": [
+      "provinces",
+      "provinces/Ebon Reach",
+      "provinces/Ebon Reach/cities",
+      "provinces/Ebon Reach/cities/Torriton",
+      "provinces/Ebon Reach/cities/Torriton/location",
+      "provinces/Ebon Reach/cities/Torriton/location/1st-tier",
+      "provinces/Ebon Reach/cities/Torriton/location/2nd-tier",
+      "provinces/Ebon Reach/cities/Torriton/location/3rd-tier"
+    ],
+    "cS4IUX2L": [
+      "journals",
+      "journals/Infernal Instruments",
+      "journals/Infernal Instruments/1st-piece",
+      "journals/Infernal Instruments/1st-piece/1st-page",
+      "journals/Infernal Instruments/1st-piece/instrument"
+    ]
+  }
+}
