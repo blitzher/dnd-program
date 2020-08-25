@@ -45,14 +45,26 @@ ul {
   position: relative;
 }
 
+input {
+  font-family: monospace;
+}
+
+button {
+  font-family: monospace;
+}
+
 .footer {
-  position: relative;
-  bottom: 10px;
+  position: absolute;
+  bottom: 5px;
   padding: 8px;
 }
 
 .display-box {
   padding: 8px;
+}
+
+#uploadResponseField {
+  color: red;
 }
 
 ul.path {

@@ -1,10 +1,28 @@
 let $ = (e) => document.getElementById(e);
 
 let world = undefined;
+let locks = undefined;
+let keys = undefined;
+let settings = undefined;
 var path = [];
 
 async function load_world() {
   world = await ee("get_world");
+}
+
+function load_from_url() {
+  // read text from URL location
+  var request = new XMLHttpRequest();
+  request.open("GET", "http://www.puzzlers.org/pub/wordlists/pocket.txt", true);
+  request.send(null);
+  request.onreadystatechange = function () {
+    if (request.readyState === 4 && request.status === 200) {
+      var type = request.getResponseHeader("Content-Type");
+      if (type.indexOf("text") !== 1) {
+        return request.responseText;
+      }
+    }
+  };
 }
 
 function set_header(name) {
@@ -60,4 +78,29 @@ function follow_path(obj, ...path) {
   }
 
   return obj;
+}
+
+async function loadKeyFile() {
+  const FIELD = $("uploadField");
+
+  file = $("keyFile").files[0];
+
+  try {
+    obj = JSON.parse(await file.text());
+  } catch (SyntaxError) {
+    $("uploadResponseField").textContent = "Invalid 'keys' file!";
+  }
+
+  keys = obj.keys;
+  settings = obj.settings;
+
+  // clear all objects in the field
+  Object.values(FIELD.children).forEach((child) => {
+    FIELD.removeChild(child);
+  });
+  FIELD.textContent = "Success!";
+
+  setTimeout(() => {
+    FIELD.style.display = "none";
+  }, 5000);
 }

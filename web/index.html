@@ -16,11 +16,18 @@
     <br />
     <br />
     <div
-      class="container display footer"
+      class="container display"
       id="display-container"
       style="display: none;"
     >
       <div class="display-box" id="display-box">Hello from the bottom!</div>
+    </div>
+    <!-- input of keys file -->
+    <div id="uploadField" class="footer">
+      <p id="uploadResponseField"></p>
+      <br />
+      <label for="keyFile">Upload your 'keys.json' file:</label>
+      <input type="file" id="keyFile" name="keyFile" oninput="loadKeyFile()" />
     </div>
   </body>
   <!-- define PATH_UL and MENU_UL -->
