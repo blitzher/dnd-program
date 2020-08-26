@@ -1,0 +1,22 @@
+{
+  "name": "dnd-web",
+  "version": "1.0.0",
+  "description": "a web version of user program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blitzher/dnd-program.git"
+  },
+  "author": "blitzher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blitzher/dnd-program/issues"
+  },
+  "homepage": "https://github.com/blitzher/dnd-program#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
