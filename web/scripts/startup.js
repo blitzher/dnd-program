@@ -1,4 +1,5 @@
 // start
+let test;
 let current_menu;
 function update_menu() {
   clear_all();
@@ -9,26 +10,37 @@ function update_menu() {
   for (let index = 0; index < Object.keys(current_menu).length; index++) {
     const element = Object.keys(current_menu)[index];
 
+    if (!is_unlocked(element)) {
+      continue
+    }
+
+    // figure out what happens when clicked on element
     let callback;
     switch (typeof current_menu[element]) {
-      case typeof {}:
+      case typeof {}: // if the path has branches, display each branch
         callback = () => {
           path.push(element);
           update_menu();
         };
         break;
 
-      case typeof []:
+      case typeof []: // if the path is another path, go there
         callback = () => {
           path = current_menu[element];
           update_menu();
         };
         break;
 
-      case typeof "":
+      case typeof "": // if it is a piece of text, display it
         callback = () => {
           DSP_BOX.style.display = "block";
-          DISPLAY.textContent = current_menu[element];
+          "".replace()
+          let text = current_menu[element]
+
+          segments = text.split("\n")
+          text = segments.join("\r\n")
+
+          DISPLAY.textContent = text;
         };
         break;
 

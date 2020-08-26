@@ -6,5 +6,6 @@
         "--extension-pkg-whitelist=pygame",
         "--ignored-modules=os",
         "--disable=E1101"
-    ]
+    ],
+    "python.pythonPath": "/usr/local/bin/python3"
 }

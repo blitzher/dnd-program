@@ -5,9 +5,11 @@ let locks = undefined;
 let keys = undefined;
 let settings = undefined;
 var path = [];
+var unlocked = new Set([])
 
 async function load_world() {
   world = await ee("get_world");
+  locks = await ee("get_locks");
 }
 
 function load_from_url() {
@@ -80,7 +82,7 @@ function follow_path(obj, ...path) {
   return obj;
 }
 
-async function loadKeyFile() {
+async function load_key_file() {
   const FIELD = $("uploadField");
 
   file = $("keyFile").files[0];
@@ -89,18 +91,40 @@ async function loadKeyFile() {
     obj = JSON.parse(await file.text());
   } catch (SyntaxError) {
     $("uploadResponseField").textContent = "Invalid 'keys' file!";
+    return
   }
 
   keys = obj.keys;
   settings = obj.settings;
 
+  keys.forEach(key => {
+    doors = locks[key]
+    doors.forEach(door => {
+      unlocked.add(door)
+    });
+  });
+
   // clear all objects in the field
   Object.values(FIELD.children).forEach((child) => {
     FIELD.removeChild(child);
   });
+
+  update_menu();
   FIELD.textContent = "Success!";
 
+  display_seconds = 3
   setTimeout(() => {
     FIELD.style.display = "none";
-  }, 5000);
+    $('display-box').style.marginBottom = "0cm"
+  }, display_seconds * 1000);
+}
+
+function is_unlocked(option) {
+  let door
+  if (path.length > 0) {
+    door = path.join("/") + `/${option}`
+  } else {
+    door = option
+  }
+  return (unlocked.has(door))
 }

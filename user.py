@@ -13,7 +13,7 @@ def get_world():
 
 @eel.expose
 def get_locks():
-    return locks
+    return locks['locks']
 
 
-eel.start('index.html', port=80)
+eel.start('index.html', port=8000)

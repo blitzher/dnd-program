@@ -43,6 +43,8 @@ ul {
   border-radius: 2em;
   display: block;
   position: relative;
+  margin-bottom: 3cm;
+  
 }
 
 input {
@@ -54,13 +56,15 @@ button {
 }
 
 .footer {
-  position: absolute;
+  position: fixed;
   bottom: 5px;
   padding: 8px;
 }
 
 .display-box {
   padding: 8px;
+  white-space: pre-wrap;
+  
 }
 
 #uploadResponseField {
